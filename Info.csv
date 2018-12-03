@@ -1,52 +1,52 @@
-State ,State,Region,Population,% of Pop. below Poverty,% Gun Ownership- State,% Bachelors Degree,"Firearm Deaths per 100,000","Police per 10,000"
-Alabama,AL,East South Central,"4,874,747",19.2,48.9,23.5,23.3,24.18
-Arizona,AZ,Mountain,"7,016,270",18.2,32.3,27.5,15.2,14.77
-California,CA,Pacific,"39,536,653",16.4,19.8,31.4,7.9,10.97
-Colorado,CO,Mountain,"5,607,154",12.1,34.3,38.1,14.3,15.26
-Washington,DC,District of Columbia,"693,972",18.4,25.9,54.6,16.5,56.9
-Florida,FL,South Atlantic,"20,984,400",16.6,32.5,27.3,12.6,20.12
-Georgia,GA,South Atlantic,"10,429,379",18.4,31.6,28.8,15,18.49
-Iowa,IA,West North Central,"3,145,711",12.3,33.8,26.7,9.2,14.16
-Idaho,ID,Mountain,"1,716,943",17.9,56.9,25.9,14.6,12.85
-Illinois,IL,East North Central,"12,802,023",14.3,26.2,32.3,11.7,16.75
-Indiana,IN,East North Central,"6,666,818",15.2,33.8,24.1,15,17.58
-Kansas,KS,West North Central,"2,913,123",13.5,32.2,31,13.4,15.38
-Kentucky,KY,East South Central,"4,454,189",19,42.4,22.3,17.5,16.93
-Louisiana,LA,West South Central,"4,684,333",19.9,44.5,22.5,21.3,26.2
-Massachusetts,MA,New England,"6,859,819",11.7,22.6,40.5,3.4,20.71
-Maryland,MD,South Atlantic,"6,052,177",10.4,20.7,37.9,11.9,24.7
-Michigan,MI,East North Central,"9,962,311",16.2,28.8,26.9,12.3,13.79
-Minnesota,MN,West North Central,"5,576,606",11.4,36.7,33.7,7.6,12.16
-Missouri,MO,West North Central,"6,113,532",15.5,27.1,27.1,19,19.04
-North Carolina,NC,South Atlantic,"10,273,419",17.2,28.7,28.4,13.7,20.06
-Nebraska,NE,West North Central,"1,920,076",12.3,19.8,29.3,9.1,16.1
-New Jersey,NJ,Mid Atlantic,"9,005,644",11.1,11.3,36.8,5.5,21.43
-New Mexico,NM,Mountain,"2,088,070",20.6,49.9,26.3,18.1,26.3
-Nevada,NV,Mountain,"2,998,039",15.4,37.5,23,16.8,11.63
-New York,NY,Mid Atlantic,"19,849,399",15.9,10.3,34.2,4.4,23.03
-Ohio,OH,East North Central,"11,658,609",15.8,19.6,27.8,12.9,20.24
-Oklahoma,OK,West South Central,"3,930,864",16.6,31.2,24.1,19.6,15.69
-Oregon,OR,Pacific,"4,142,776",16.4,26.6,30.8,11.9,11.84
-Pennsylvania,PA,Mid Atlantic,"12,805,537",13.6,27.1,28.6,12,18.57
-Tennessee,TN,East South Central,"6,715,984",18.2,39.4,29.7,17.1,22.24
-Texas,TX,West South Central,"28,304,596",17.2,35.7,29.5,12.1,15.87
-Virginia,VA,South Atlantic,"8,470,020",11.8,29.3,36.3,12.1,21.71
-Washington,WA,Pacific,"7,405,743",13.2,27.7,32.9,9,12.45
-Wisconsin,WI,East North Central,"5,795,483",13.2,34.7,27.6,11.4,19.05
-Arkansas,AR,West South Central,"3,004,279",18.7,57.9,21.1,23.3,19.66
-Connecticut,CT,New England,"3,588,184",10.8,16.6,37.6,4.6,22
-Delaware,DE,South Atlantic,"961,939",13,5.2,30,11,43.4
-Maine,ME,New England,"1,335,907",14,22.6,29,8.3,24.1
-Mississippi,MS,East South Central,"2,984,100",21.9,42.8,20.7,19.9,22.02
-Montana,MT,Mountain,"1,050,493",15.2,52.3,24.9,18.9,13.73
-New Hampshire,NH,New England,"1,342,795",9.2,14.4,34.9,9.3,19.6
-North Dakota,ND,West North Central,"755,393",11.1,47.9,27.7,11.9,14.47
-Rhode Island,RI,New England,"1,059,639",14.8,5.8,31.9,4.1,20.3
-South Carolina,SC,South Atlantic,"5,024,369",17.9,44.4,25.8,17.7,26.18
-South Dakota,SD,West North Central,"869,666",14.1,35,27,13.4,15.15
-Utah,UT,Mountain,"3,101,833",11.8,31.9,31.1,12.9,11.78
-Vermont,VT,New England,"623,657",12.2,28.8,36,11.4,31.6
-West Virginia,WV,South Atlantic,"1,815,857",18.3,54.2,19.2,17.5,32.5
-Wyoming,WY,Mountain,"579,315",10.6,53.8,25.7,17.4,15.9
-Hawaii,HI,Pacific,"1,427,538",11.5,45.1,30.8,4.5,20
-Alaska,AK,Pacific,"739,795",11.4,61.7,28,23.3,12.8
+State ,State,Region,Population,% of Pop. below Poverty,Income distribution inequality (Gini Coefficient),% Gun Ownership- State,% Bachelors Degree,"Firearm Deaths per 100,000","Police per 10,000"
+Alabama,AL,East South Central,"4,874,747",19.2,0.48,48.9,23.5,23.3,24.18
+Arkansas,AR,West South Central,"3,004,279",18.7,0.47,57.9,21.1,23.3,19.66
+Alaska,AK,Pacific,"739,795",11.4,0.42,61.7,28,23.3,12.8
+Louisiana,LA,West South Central,"4,684,333",19.9,0.49,44.5,22.5,21.3,26.2
+Mississippi,MS,East South Central,"2,984,100",21.9,0.48,42.8,20.7,19.9,22.02
+Oklahoma,OK,West South Central,"3,930,864",16.6,0.47,31.2,24.1,19.6,15.69
+Missouri,MO,West North Central,"6,113,532",15.5,0.46,27.1,27.1,19,19.04
+Montana,MT,Mountain,"1,050,493",15.2,0.45,52.3,24.9,18.9,13.73
+New Mexico,NM,Mountain,"2,088,070",20.6,0.48,49.9,26.3,18.1,26.3
+South Carolina,SC,South Atlantic,"5,024,369",17.9,0.48,44.4,25.8,17.7,26.18
+Kentucky,KY,East South Central,"4,454,189",19,0.48,42.4,22.3,17.5,16.93
+West Virginia,WV,South Atlantic,"1,815,857",18.3,0.47,54.2,19.2,17.5,32.5
+Wyoming,WY,Mountain,"579,315",10.6,0.43,53.8,25.7,17.4,15.9
+Tennessee,TN,East South Central,"6,715,984",18.2,0.48,39.4,29.7,17.1,22.24
+Nevada,NV,Mountain,"2,998,039",15.4,0.46,37.5,23,16.8,11.63
+Washington,DC,District of Columbia,"693,972",18.4,0.53,25.9,54.6,16.5,56.9
+Arizona,AZ,Mountain,"7,016,270",18.2,0.47,32.3,27.5,15.2,14.77
+Georgia,GA,South Atlantic,"10,429,379",18.4,0.48,31.6,28.8,15,18.49
+Indiana,IN,East North Central,"6,666,818",15.2,0.45,33.8,24.1,15,17.58
+Idaho,ID,Mountain,"1,716,943",17.9,0.45,56.9,25.9,14.6,12.85
+Colorado,CO,Mountain,"5,607,154",12.1,0.46,34.3,38.1,14.3,15.26
+North Carolina,NC,South Atlantic,"10,273,419",17.2,0.48,28.7,28.4,13.7,20.06
+Kansas,KS,West North Central,"2,913,123",13.5,0.45,32.2,31,13.4,15.38
+South Dakota,SD,West North Central,"869,666",14.1,0.45,35,27,13.4,15.15
+Ohio,OH,East North Central,"11,658,609",15.8,0.46,19.6,27.8,12.9,20.24
+Utah,UT,Mountain,"3,101,833",11.8,0.42,31.9,31.1,12.9,11.78
+Florida,FL,South Atlantic,"20,984,400",16.6,0.49,32.5,27.3,12.6,20.12
+Michigan,MI,East North Central,"9,962,311",16.2,0.47,28.8,26.9,12.3,13.79
+Texas,TX,West South Central,"28,304,596",17.2,0.48,35.7,29.5,12.1,15.87
+Virginia,VA,South Atlantic,"8,470,020",11.8,0.47,29.3,36.3,12.1,21.71
+Pennsylvania,PA,Mid Atlantic,"12,805,537",13.6,0.48,27.1,28.6,12,18.57
+Maryland,MD,South Atlantic,"6,052,177",10.4,0.45,20.7,37.9,11.9,24.7
+Oregon,OR,Pacific,"4,142,776",16.4,0.46,26.6,30.8,11.9,11.84
+North Dakota,ND,West North Central,"755,393",11.1,0.45,47.9,27.7,11.9,14.47
+Illinois,IL,East North Central,"12,802,023",14.3,0.48,26.2,32.3,11.7,16.75
+Wisconsin,WI,East North Central,"5,795,483",13.2,0.45,34.7,27.6,11.4,19.05
+Vermont,VT,New England,"623,657",12.2,0.45,28.8,36,11.4,31.6
+Delaware,DE,South Atlantic,"961,939",13,0.48,5.2,30,11,43.4
+New Hampshire,NH,New England,"1,342,795",9.2,0.44,14.4,34.9,9.3,19.6
+Iowa,IA,West North Central,"3,145,711",12.3,0.44,33.8,26.7,9.2,14.16
+Nebraska,NE,West North Central,"1,920,076",12.3,0.44,19.8,29.3,9.1,16.1
+Washington,WA,Pacific,"7,405,743",13.2,0.46,27.7,32.9,9,12.45
+Maine,ME,New England,"1,335,907",14,0.45,22.6,29,8.3,24.1
+California,CA,Pacific,"39,536,653",16.4,0.49,19.8,31.4,7.9,10.97
+Minnesota,MN,West North Central,"5,576,606",11.4,0.45,36.7,33.7,7.6,12.16
+New Jersey,NJ,Mid Atlantic,"9,005,644",11.1,0.48,11.3,36.8,5.5,21.43
+Connecticut,CT,New England,"3,588,184",10.8,0.49,16.6,37.6,4.6,22
+Hawaii,HI,Pacific,"1,427,538",11.5,0.45,45.1,30.8,4.5,20
+New York,NY,Mid Atlantic,"19,849,399",15.9,0.52,10.3,34.2,4.4,23.03
+Rhode Island,RI,New England,"1,059,639",14.8,0.47,5.8,31.9,4.1,20.3
+Massachusetts,MA,New England,"6,859,819",11.7,0.49,22.6,40.5,3.4,20.71
