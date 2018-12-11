@@ -103,4 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+<<<<<<< HEAD
 data/
+=======
+data/
+>>>>>>> f7dcfcf97c30bdee45e53edc2ebd80473d3b15ee
