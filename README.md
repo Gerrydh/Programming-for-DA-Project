@@ -4,4 +4,4 @@ This repository contains, primarily a Jupyter Notebook with an investigation int
 
 To run the Notebook, you must have [Jupyter](https://jupyter.org/) installed on your machine. You can install this using the [Anacona](https://www.anaconda.com/) Python Distribution. You can also view the Notebook in a static format using [nbviewer](http://nbviewer.jupyter.org/)
 
-The notebook itself is called `Programming for Data Analysis- Project 2018.ipynb`.
+The notebook itself is called `Box Plots- An Investigation.ipynb`.
